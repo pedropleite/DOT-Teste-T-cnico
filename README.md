@@ -1,4 +1,4 @@
-# Teste DOT 📱
+# Teste DOT 🎬
 <br>
 
 ## Video da aplicação | Application video:
