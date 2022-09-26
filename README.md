@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Teste DOT 📱
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Video da aplicação | Application video:
+<img width ="100%" src="https://github.com/pedropleite/DOT-Teste-T-cnico/blob/master/GIF.gif">
+<br>
 
-## Available Scripts
+# PT-BR
 
-In the project directory, you can run:
+## Sobre esse projeto 🔍
+<p>Link para a aplicação: https://testedot.netlify.app/</p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>Aplicação construida em ReactJS usando o Firebase como sistema de autenticação e fazendo uso da API TMDB para acesso aos dados dos filmes, além do auxílio de ferramentas como o Context API para uma melhor administração do estado e suas propriedades, Styled-Components para uma estilização mais prática usando JavaScript, Axios para requisições HTTP e React-Router para criação de rotas.</p>
+<br>
+<p>Essa aplicação fictícia consiste em uma loja/catálogo de filmes. Nela temos acessos aos filmes que existem no mercado, dados sobre eles e muito mais.</p>
+<br> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features 🕹
+- [x] Catálogo responsívo com uma lista de filmes retornadas da API e informações sobre eles.
+- [x] Barra de pesquisa permitindo a pesquisa de filmes.
+- [x] Pode-se favoritar os seus filmes favoritos e ter acesso a eles.
+- [x] Carrinho de compras totalmente funcional com todas as informações sobre o produto como a quantidade, valor total e até uma breve imagem.
+- [x] Tela de checkout com validação de preenchimento de formulário.
+- [x] Máscaras implementadas no CPF, CEP, celular e e-mail.
+- [x] Após finalizar a compra um Modal de sucesso com animação é mostrado para o usuário.
+- [x] Sistema de autenticação completo no Front-End com mensagens responsivas ao seu erro, facilitando o entendimento do usuário.
+- [x] Sistema de login e registro usando a API do Firebase.
+- [x] Sistema de bloqueio de rotas para apenas usuários logados.
+<br><br>
 
-### `npm test`
+## Tecnologias utilizadas 💻
+- <a href="https://www.javascript.com/">JavaScript</a>
+- <a href="https://pt-br.reactjs.org/">ReactJS</a>
+- <a href="https://firebase.google.com/">Firebase</a>
+- <a href="https://styled-components.com/">Styled-Components</a>
+- <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
+- <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router</a>
+- <a href="https://pt-br.reactjs.org/docs/context.html">Context-API</a>
+- <a href="https://www.framer.com/motion/">Framer-Motion</a>
+- <a href="https://mui.com/pt/">Material UI</a>
+- <a href="https://www.npmjs.com/package/react-input-mask">React Input Mask</a>
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Status do projeto 📌
+- Finalizado.
+<br>
+<br>
+<br>
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# EN-US
 
-### `npm run eject`
+## About This Project 🔍
+<p>Link to the application: https://testedot.netlify.app/</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>Application built in ReactJS using Firebase as an authentication system and making use of the TMDB API to access movie data, in addition to the help of tools such as the Context API for a better administration of the state and its properties, Styled-Components for more practical styling using JavaScript, Axios for HTTP requests and React-Router for creating routes.</p>
+<br>
+<p>This dummy application consists of a movie store/catalog. In it we have access to the films that exist in the market, data about them and much more.</p>
+<br> 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Features 🕹
+- [x] Responsive catalog with a list of movies returned from the API and information about them.
+- [x] Search bar allowing to search for movies.
+- [x] You can bookmark your favorite movies and have access to them.
+- [x] Fully functional shopping cart with all product information such as quantity, total value and even a brief image.
+- [x] Checkout screen with form filling validation.
+- [x] Masks implemented in CPF, CEP, cell phone and e-mail.
+- [x] After completing the purchase a successful Modal with animation is shown to the user.
+- [x] Complete Front-End authentication system with responsive messages to your error, making it easier for the user to understand.
+- [x] Login and registration system using Firebase API.
+- [x] Route blocking system for logged in users only.
+<br><br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies Used 💻
+- <a href="https://www.javascript.com/">JavaScript</a>
+- <a href="https://pt-br.reactjs.org/">ReactJS</a>
+- <a href="https://firebase.google.com/">Firebase</a>
+- <a href="https://styled-components.com/">Styled-Components</a>
+- <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
+- <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router</a>
+- <a href="https://pt-br.reactjs.org/docs/context.html">Context-API</a>
+- <a href="https://www.framer.com/motion/">Framer-Motion</a>
+- <a href="https://mui.com/pt/">Material UI</a>
+- <a href="https://www.npmjs.com/package/react-input-mask">React Input Mask</a>
+<br>
 
-## Learn More
+## Project status 📌
+- Finished.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#
+ <br><div align="center"> 
+   <a href="https://instagram.com/pedropml" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:pedroaksson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/pedro-paulo-361143226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
